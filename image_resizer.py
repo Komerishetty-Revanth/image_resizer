@@ -2,7 +2,7 @@ import os
 from PIL import Image
 input_folder = "images_input"
 output_folder = "resized_images"
-output_size = (800, 600)
+output_size = (1000, 900)
 output_format = "JPEG"
 def resize_images():
     # Check if input folder exists
