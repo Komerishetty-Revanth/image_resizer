@@ -1,6 +1,6 @@
 import os
 from PIL import Image
-input_folder = "input_images"
+input_folder = "images_input"
 output_folder = "resized_images"
 output_size = (800, 600)
 output_format = "JPEG"
